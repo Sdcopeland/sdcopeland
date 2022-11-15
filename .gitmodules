@@ -1,3 +1,12 @@
 [submodule "civiclabs.io/themes/introduction"]
 	path = civiclabs.io/themes/introduction
 	url = https://github.com/victoriadrake/hugo-theme-introduction.git
+[submodule "civiclabs.io/themes/beautifulhugo"]
+	path = civiclabs.io/themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
+[submodule "themes/hugo-theme-console"]
+	path = themes/hugo-theme-console
+	url = https://github.com/mrmierzejewski/hugo-theme-console.git
+[submodule "civiclabs.io/themes/hugo-theme-console"]
+	path = civiclabs.io/themes/hugo-theme-console
+	url = https://github.com/mrmierzejewski/hugo-theme-console.git
