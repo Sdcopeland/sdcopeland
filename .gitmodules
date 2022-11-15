@@ -1,0 +1,3 @@
+[submodule "civiclabs.io/themes/introduction"]
+	path = civiclabs.io/themes/introduction
+	url = https://github.com/victoriadrake/hugo-theme-introduction.git
