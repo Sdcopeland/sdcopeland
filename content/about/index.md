@@ -3,30 +3,21 @@ date = "2016-11-05T21:05:33+05:30"
 title = "About"
 +++
 
-A minimal, responsive and light theme for Hugo inspired by Linux console. 
+Hi, I'm Shawn! Welcome to my slice of the internet 
 
-![Console](https://github.com/mrmierzejewski/hugo-theme-console/blob/master/images/preview.png?raw=true)
+![Welcome-Photo](images/welcome-photo.jpg)
 
-## Installation
 
-```
-$ mkdir themes
-$ cd themes
-$ git submodule add https://github.com/mrmierzejewski/hugo-theme-console.git hugo-theme-console
-```
-    
-See the [Hugo documentation](https://gohugo.io/themes/installing/) for more information.
+## About Me
 
-## Configuration
+For the last decade I have worked as a community organizer, political strategist, and director for progressive issue nonprofits. In my last role for 4 years I manged election strategy, data, campaigns, and state legislative lobbying for Ohio and the bulk of the Western Mountain Region for the Human Rights Campaign. 
 
-Set theme parameter in your config file:
+I am an avid technologist and am interested in the emerging space of digital rights and information theory. I see data as an incredibly powerful democratizing force and hope to find better ways to share access to good civic data and to better inform how to understand data. I will post regularly about data projects I am learning or working on along with public data sets that could be useful for further study.
 
-```
-theme = "hugo-theme-console"
-```
+Personally, I'm interested in a ton of interconnected interests including: bikes, urbanism, land use, public transit, permaculture, sustainable ecology & agriculture, DIY, cyberpunk, scifi, slow living, linux, meta cognition, personal knowledge management, minimalism, weight training, backpacking, climbing, and I live for primitive hotsprings.
 
-## License
+If I am not at my desk taking something apart or trying to make code work, I'm likely riding my bike or backing. I live in the wonderful city of Denver, CO.
 
-Copyright © 2020 [Marcin Mierzejewski](https://mrmierzejewski.com/)
+## About Website
 
-The theme is released under the MIT License. Check the [original theme license](https://github.com/panr/hugo-theme-terminal/blob/master/LICENSE.md) for additional licensing information.
+The website is a Hugo static site based off the Console Theme by [Marcin Mierzejewski](https://mrmierzejewski.com/). The hosting is done by github actions to generate and serve the static website upon updates to the main [repository](https://github.com/Sdcopeland/sdcopeland) via git.
