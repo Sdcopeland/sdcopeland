@@ -3,11 +3,11 @@ date = "2016-11-05T21:05:33+05:30"
 title = "About"
 +++
 
-Hi, I'm Shawn! Welcome to my slice of the internet 
+Hi, I'm Shawn! Welcome to my slice of the internet.
 
 ## About Me
 
-For the last decade I have worked as a community organizer, political strategist, and director for progressive issue nonprofits. In my last role for 4 years I manged election strategy, data, campaigns, and state legislative lobbying for Ohio and the bulk of the Western Mountain Region for the Human Rights Campaign. 
+For the last decade I have worked as a community organizer, political strategist, and director for progressive issue nonprofits. In my last role for 4 years I manged election strategy, data, campaigns, and state legislative lobbying for Ohio and the bulk of the Western Mountain Region for the Human Rights Campaign.
 
 I am an avid technologist and am interested in the emerging space of digital rights and information theory. I see data as an incredibly powerful democratizing force and hope to find better ways to share access to good civic data and to better inform how to understand data. I will post regularly about data projects I am learning or working on along with public data sets that could be useful for further study.
 
