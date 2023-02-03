@@ -25,10 +25,17 @@ menu:
 
 # Index/Home Page
 params:
+  env: production # enables ga, opengraph, twitter-cards and schema
+  title: Shawn
+  Author: Shawn
+
+  defaultTheme: dark 
   ShowBreadCrumbs: true
-  ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  VisitCount: true
+
   
   # Search Params
   fuseOpts:
@@ -55,6 +62,8 @@ params:
       url: "https://github.com/sdcopeland"
     - name: LinkedIn
       url: "https://www.linkedin.com/in/shawn-copeland-64b87321/"
+    - name: Instagram
+      url: "https://instagram.com/sdcopeland3?igshid=NDk5N2NlZjQ="
     
 # Search Page 
 outputs:
