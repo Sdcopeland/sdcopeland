@@ -1,0 +1,64 @@
+baseURL: http://civiclabs.io
+languageCode: en-us
+title: Civiclabs
+theme: PaperMod
+
+# Menu Bars
+menu:
+  main:
+    - identifier: thoughts
+      name: thoughts
+      url: /thoughts/
+      weight: 30
+    - identifier: about
+      name: about
+      weight: 10
+      url: /about/
+    - identifier: things
+      name: things
+      weight: 20
+      url: /things/
+    - identfier: search
+      name: search
+      weight: 40
+      url: search
+
+# Index/Home Page
+params:
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  
+  # Search Params
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+  profileMode:
+    enabled: true
+    title: "Hi, I'm Shawn" # optional default will be site title
+    subtitle: "Welcome to my trashbin on the internet"
+    imageUrl: "img/reading_racoon.png" # optional
+    imageTitle: "Welcome" # optional
+    imageWidth: 350 # custom size
+    imageHeight: 350 # custom size
+  socialIcons:
+    - name: Mastodon
+      url: "https://mastodon.social/@tagout77"
+    - name: Github
+      url: "https://github.com/sdcopeland"
+    - name: LinkedIn
+      url: "https://www.linkedin.com/in/shawn-copeland-64b87321/"
+    
+# Search Page 
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
