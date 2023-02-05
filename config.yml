@@ -1,6 +1,6 @@
 baseURL: https://sdcopeland.github.io
 languageCode: en-us
-title: Civiclabs
+title: Shawn Copeland
 theme: PaperMod
 
 # Menu Bars
@@ -30,12 +30,11 @@ params:
   Author: Shawn
 
   defaultTheme: dark 
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
   VisitCount: true
-
   
   # Search Params
   fuseOpts:
