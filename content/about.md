@@ -5,6 +5,7 @@ url: "/about/"
 summary: about
 ---
 
+![Hi](/img/small_me_round.png)
 # About Me
 
 I am a Denver based progressive political and data professional. I spend most of my time taking apart code and systems. I like mountains and sometimes I climb them.
