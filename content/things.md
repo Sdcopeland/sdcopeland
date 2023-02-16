@@ -7,34 +7,38 @@ summary: projects & things
 
 # Projects
 
+Coming soon
+
 # CV
+
 ----
+
 ## Skills
 
-``` python programming```
+```EveryAction & NGP VAN```
+```python & pandas```
 ``` data visulization ```
 ```tableau```
-```databases```
-```linux systems administration```
-```webservers```
+```Civis```
+```d3.js```
 ```project management```
 
-**Programming**: Python, javascript, html/css, pandas
+**Programming**: Python, pandas, javascript, html/css
 
 **Databases**: MySQL, Postgres, sqlite,
 
 ## Experience
 
-### Associate Regional Campaign Director, Human Rights Campaign
+#### Associate Regional Campaign Director & Data Lead, Human Rights Campaign
 
-start-date-end-date, City, State and remote
+#### Ohio State Director, Human Rights Campaign
 
-- Things you did/do here
-- More things that you do here.
+#### Midwest Director, Progressive Turnout Project
 
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
+#### OH State Director, NextGen Climate
+
+#### Data and Field Director, Equality Ohio
 
 ## Education
 
-### Human Rights & Global Justice in BSS, Ohio University
-
+#### Human Rights & Global Justice in BSS, Ohio University
