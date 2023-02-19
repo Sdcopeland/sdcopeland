@@ -15,13 +15,17 @@ Coming soon
 
 ## Skills
 
+```Field and Digital Campaign Design```
 ```EveryAction & NGP VAN```
 ```python & pandas```
+```SQL```
 ``` data visulization ```
-```tableau```
+```Tableau```
 ```Civis```
 ```d3.js```
-```project management```
+```Project Management```
+```Legislative Tracking & Lobbying```
+
 
 **Programming**: Python, pandas, javascript, html/css
 
@@ -41,4 +45,4 @@ Coming soon
 
 ## Education
 
-#### Human Rights & Global Justice in BSS, Ohio University
+#### Human Rights & Global Justice - BSS, Ohio University
