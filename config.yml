@@ -12,7 +12,7 @@ menu:
       weight: 30
     - identifier: about
       name: about
-      weight: 10
+      weight: 40
       url: /about/
     - identifier: things
       name: things
@@ -20,7 +20,7 @@ menu:
       url: /things/
     - identfier: search
       name: search
-      weight: 40
+      weight: 10
       url: search
 
 # Index/Home Page
@@ -28,6 +28,7 @@ params:
   env: production # enables ga, opengraph, twitter-cards and schema
   title: Shawn
   Author: Shawn
+  comments: true
 
   defaultTheme: dark 
   ShowBreadCrumbs: false
