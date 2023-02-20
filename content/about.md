@@ -5,7 +5,7 @@ url: "/about/"
 summary: about
 ---
 
-![Hi](/img/small_me_round.png)
+![Hi](/img/small_me_round.png#center)
 
 # About Me
 
