@@ -28,7 +28,6 @@ params:
   env: production # enables ga, opengraph, twitter-cards and schema
   title: Shawn
   Author: Shawn
-  comments: true
 
   defaultTheme: dark 
   ShowBreadCrumbs: false
@@ -36,6 +35,7 @@ params:
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
   VisitCount: true
+  comments: true
   
   # Search Params
   fuseOpts:
