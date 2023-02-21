@@ -7,7 +7,20 @@ summary: projects & things
 
 # Projects
 
-Coming soon
+## Animation and Presentations
+
+### WTF Disney
+
+A short animation made in keynote for a powerpoint competition. I wanted to focus on using keynote to make dynamic and animated content similar to training videos I've made for training large distributed teams.
+
+{{< rawhtml >}}
+
+<video width=100% controls >
+    <source src="/videos/Disney WTF.mp4" type="video/mp4">
+    Your browser does not support the video tag.  
+</video>
+
+{{< /rawhtml >}}
 
 # CV
 
@@ -25,7 +38,6 @@ Coming soon
 ```d3.js```
 ```Project Management```
 ```Legislative Tracking & Lobbying```
-
 
 **Programming**: Python, pandas, javascript, html/css
 

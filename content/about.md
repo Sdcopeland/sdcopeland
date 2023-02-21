@@ -25,6 +25,7 @@ This allows for an incredibly quick and light website that is easy for regular u
 
 - ~~Build out functional github hosted website with modified theme~~
 - ~~Add social sharing to posts~~
-- Implliment privacy respecting commenting
-- Build a backend server for dynmaic data manipulation for Projects hosted on github
+- ~~Implliment privacy respecting commenting~~
+  - Make comment theme dynamic based on light/dark mode selected by user
+- Build a backend server for dynmaic data manipulation for projects hosted on github
 - Enable [POSSE](https://indieweb.org/POSSE) and other [Indie Web Features](https://indieweb.org/)
