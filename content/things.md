@@ -3,6 +3,7 @@ title: ""
 layout: "things"
 url: "/things/"
 summary: projects & things
+draft: true
 ---
 
 # Projects
